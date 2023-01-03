@@ -1,4 +1,4 @@
-This is Mac McClelland's litterbox of code, scripts, documentation, and other crap
+This is Mac McClelland's litterbox of code, scripts, documentation, and other crap.  I am trying to figure out github so this is likely to be an unmitigated disaster area for now.
 
 
 <!---
